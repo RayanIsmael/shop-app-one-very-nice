@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 "# shop-app-one-very-nice" 
 
-<img src='ui.png'>
+<img src='ui.png' width='600'>
